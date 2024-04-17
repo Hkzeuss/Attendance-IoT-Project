@@ -1,2 +1,11 @@
 # Attendance-IoT-Project
-A comprehensive IoT-based attendance tracking system utilizing RFID technology for efficient and automated attendance management in various settings such as schools, offices, and events.
+## The project of IoT-based attendance tracking system
+
+## Contributing
+- [@Hkzeuss](https://github.com/Hkzeuss)
+- [@SakaiKuniteru](https://github.com/SakaiKuniteru)
+- [@yukioreki1302](https://github.com/yukioreki1302)
+- [@Hwangjiy](https://github.com/Hwangjiy)
+- [@manh0107](https://github.com/manh0107)
+## Documentation
+- [IoT Based RFID Attendance System using ESP32](https://iotprojectsideas.com/iot-rfid-attendance-system-esp32/)
